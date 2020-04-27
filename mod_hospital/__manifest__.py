@@ -10,7 +10,9 @@
     'website': 'www.officeboytokosebelah.com',
     'depends': [],
     'demo': [],
-    'data': [],
+    'data': [
+        'patient.xml',
+    ],
     'installable': True,
     'application': True,
     'auto_install': False,
