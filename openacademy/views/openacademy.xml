@@ -20,6 +20,8 @@
                         </page>
                         <page string="About">
                             This is an example of notebooks
+                            Some Paragraf
+                            Description Of the descritpion
                         </page>
                     </notebook>
                 </sheet>
